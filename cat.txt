@@ -1,2 +1,4 @@
 I like cats.
 It's cool.
+
+But I don't like dog!
